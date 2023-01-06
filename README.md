@@ -10,3 +10,5 @@ I'm into self improving, maybe because I'm an Architect in MBTI classyfication. 
 ***
 See You Around!
 @JPiotr aka Oblitus
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JPiotr&theme=dark&border_radius=50&locale=pl)](https://git.io/streak-stats)
