@@ -1,5 +1,5 @@
 # Hi!
-I'm Piotr, nice to see You around! 😁
+I'm Piotr, nice to see You! 😁
 ***
 I'm activeliy learning new technologies so.. 😏</br>
 ...in my messy place... 😖 </br>
@@ -13,7 +13,8 @@ Trying to hit the longest strike!
 
 ***
 See You Around!
-@JPiotr aka Oblitus
+
+@JPiotr
 
 
 ***
