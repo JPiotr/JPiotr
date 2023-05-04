@@ -66,7 +66,7 @@ I want to create something innovative, something that will help others at work o
 
 ***
 
-I'm trying to hold the best strike!
+### I'm trying to hold the best strike!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JPiotr&theme=transparent&hide_border=true&border_radius=25&card_width=900)](https://git.io/streak-stats)
 
