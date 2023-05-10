@@ -72,3 +72,5 @@ I want to create something innovative, something that will help others at work o
 [![GitHub Streak](https://streak-stats.demolab.com?user=JPiotr&theme=transparent&hide_border=true&border_radius=25&card_width=900)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JPiotr&theme=transparent&hide_border=true&border_radius=25&mode=weekly&card_width=900&stroke=EB9C4C&ring=EBAD01&fire=EB5454&currStreakNum=EBAD01&sideNums=EB5454&currStreakLabel=EB5454&sideLabels=EBAD01&dates=EB9C4C)](https://git.io/streak-stats)
+
+#### Avatar by my Loveley Rose 🌹
