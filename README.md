@@ -2,7 +2,7 @@
 
 # Hello,
 
-I'm Peter, nice to see you here!
+I'm Peter, nice to see you!
 
 ***
 
