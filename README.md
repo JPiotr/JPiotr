@@ -9,7 +9,6 @@ I actively use multiple languages for various purposes.
 
 I am constantly learning new programming techniques, as well as discovering and learning tools that support me in creating various types of software.
 
-I want to create my own World!
 
 ***
 
