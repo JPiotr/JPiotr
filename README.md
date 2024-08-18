@@ -14,8 +14,8 @@ I am constantly learning new programming techniques, as well as discovering and 
 
 ### I'm trying to hold the best strike!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JPiotr&theme=transparent&hide_border=true&border_radius=25&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JPiotr&theme=transparent&hide_border=true&card_width=900&card_height=200&fire=C74AEB&hide_longest_streak=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JPiotr&theme=transparent&hide_border=true&border_radius=25&mode=weekly&card_width=900&stroke=EB9C4C&ring=EBAD01&fire=EB5454&currStreakNum=EBAD01&sideNums=EB5454&currStreakLabel=EB5454&sideLabels=EBAD01&dates=EB9C4C)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JPiotr&theme=transparent&hide_border=true&mode=weekly&exclude_days=Sun%2CWed%2CThu%2CFri%2CSat&card_width=900&card_height=200&fire=EB563E&ring=EBA951&currStreakNum=EB3330&currStreakLabel=EB5454&sideLabels=EB5454&sideNums=EB5454&dates=AD3E3E&hide_total_contributions=true)](https://git.io/streak-stats)
 
 #### Avatar by my Lovely Rose 🌹
