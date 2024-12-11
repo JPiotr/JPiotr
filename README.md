@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=4000&pause=1000&color=9831F7&vCenter=true&multiline=true&width=1000&height=100&lines=Sleep+or+code?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=4000&pause=1000&color=9831F7&vCenter=true&multiline=true&width=1000&height=100&lines=C+O+D+E+R+?)](https://git.io/typing-svg)
 
 # Hello,
 
